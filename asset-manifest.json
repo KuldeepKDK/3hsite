@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.66afa063.css",
+    "main.js": "/static/js/main.8fc1fef9.js",
+    "static/js/787.5aece476.chunk.js": "/static/js/787.5aece476.chunk.js",
+    "static/media/data2.jpg": "/static/media/data2.069a57eef323474daa5d.jpg",
+    "static/media/computer-screens-desk-empty-data-room-computers-background-running-programming-code-data-algorithms-neural-network-servers-cloud-computing-software-it-agency-office.jpg": "/static/media/computer-screens-desk-empty-data-room-computers-background-running-programming-code-data-algorithms-neural-network-servers-cloud-computing-software-it-agency-office.f817df972f64463b5dea.jpg",
+    "static/media/cloudd.png": "/static/media/cloudd.9315e7077ed0289fee15.png",
+    "static/media/hardbg.jpg": "/static/media/hardbg.d8b10658e1147dc1f42f.jpg",
+    "static/media/cyberr.avif": "/static/media/cyberr.db2adba859e608d255f8.avif",
+    "static/media/softt.avif": "/static/media/softt.44bb9555b6d11fc3eb31.avif",
+    "static/media/ns.avif": "/static/media/ns.2632e27abddcbd6c0c60.avif",
+    "index.html": "/index.html",
+    "main.66afa063.css.map": "/static/css/main.66afa063.css.map",
+    "main.8fc1fef9.js.map": "/static/js/main.8fc1fef9.js.map",
+    "787.5aece476.chunk.js.map": "/static/js/787.5aece476.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66afa063.css",
+    "static/js/main.8fc1fef9.js"
+  ]
+}
